@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+This is my First Project I made, Hope i can still learning more !! 
+
+Any Advice please contact me in GitHub
 <!--
 **Susahasep/Susahasep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
